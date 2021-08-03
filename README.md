@@ -1,4 +1,3 @@
-## Text-Prediction
 ## NLP Project
 ### Team members
 ### 1. [Ahmed Negm](https://github.com/a7mdngm98)
